@@ -1,0 +1,186 @@
+{
+  "main": {
+    "name":"Nidhal Sghairi",
+    "occupation":"full stack JS developer",
+    "description":"I'm a full stack web developer. I have a good experience in modern web technologies such as ReactJS, nodeJS, ExpressJS, MongoDB and GraphQL. I am also passionate about data science and machine learning and especially deep learning, worked on many topics like computer vision, classification and regression. During my last 10 months in Goshaba, I learned a lot about the SCRUM method",
+    "image":"profilepic.jpg",
+    "bio":"I'm 24 years old, I obtained my  baccalaureate degree in 2015 with honor, then I spent two years in preparatory classes and in 2017 I started my engineering cycle. After spending 3 years successfully at the National School of Computer Science I obtained my diploma of computer science engineer.Currently I am a full stack web developer at Goshaba in Paris.My main characteristics are my autonomy and my ability to manage my deadlines and to learn quickly.",
+    "contactmessage":"Contact Me",
+    "email": "nidhal.sghairi@ensi-uma.tn",
+    "phone": "(+33) 7 68 86 81 76",
+    "address":{
+      "street":"55 rue Berthollet",
+      "city":"Arcueil,",
+      "state":"Ile de France",
+      "zip": "94110"
+    },
+    "website": "http://www.timbakerdev.com",
+    "resumedownload":"https://drive.google.com/file/d/1O-bZ5JXUiYkNVHezBcGYo3BN7uOxCqJA/view?usp=sharing",
+    "social":[
+      {
+        "name":"facebook",
+        "url":"https://www.facebook.com/naytou.nidhal/",
+        "className":"fa fa-facebook"
+      },
+      {
+        "name":"twitter",
+        "url":"http://twitter.com",
+        "className":"fa fa-twitter"
+      },
+      {
+        "name":"google-plus",
+        "url":"http://googleplus.com",
+        "className":"fa fa-google-plus"
+      },
+      {
+        "name":"linkedin",
+        "url":"https://www.linkedin.com/in/nidhal-sghairi-060619149/",
+        "className":"fa fa-linkedin"
+      },
+      {
+        "name":"instagram",
+        "url":"http://instagram.com/",
+        "className":"fa fa-instagram"
+      },
+      {
+        "name":"github",
+        "url":"https://github.com/NidhalSghairi",
+        "className":"fa fa-github"
+      },
+      {
+        "name":"skype",
+        "url":"http://skype.com",
+        "className":"fa fa-skype"
+      }
+    ]
+  },
+  "resume":{
+    "skillmessage":"Check out some of my main skills",
+    "education":[
+      {
+        "school":"National School Of Computer Science",
+        "degree":"Engineering Degree",
+        "graduated":"September 2020",
+        "description":"NSCS is ranked number one in computing in North Africa. At NSCS I learned to think as an engineer, I learned a lot about data structure, programming, algorithmics and complexity .I also gained a solid background in embedded systems,local networks and operating systems."
+      },
+      {
+        "school":"Preparatory Institute for Engineering Studies of Tunis",
+        "degree":"Mathematics and Physics",
+        "graduated":"September 2015 - June 2017",
+        "description":"During these two years of preparatory classes, I acquired a solid background in mathematics and a good reasoning ability."
+      },
+      {
+        "school":"High School El Wafa",
+        "degree":"Baccalaureate degree in Mathematics",
+        "graduated":"June 2015",
+        "description":""
+      }
+    ],
+    "work":[
+      {
+        "company":"Goshaba",
+        "title":"Full Stack Web Developer",
+        "years":"March 2020 - Present",
+        "description":"At Goshaba we develop cognitive games to help companies in the hiring process. Using cognitive games, companies can pre-select and identify the best profiles before making interviews. Our stack is ReactJS, NodeJs , MongoDb , ExpressJS and Graphql. We work with the Scrum Method. "
+      },
+      {
+        "company":"SFM technologies",
+        "title":"Summer Internship",
+        "years":"July-2019 - September-2019",
+        "description":"Our project aims to develop a chatbot that helps human resources in the recruitment process. Candidates can apply for a job or get information about the company by simply talking to the chatbot."
+      },
+      {
+        "company":"Altran & Telnet Corporation",
+        "title":"Summer Internship",
+        "years":"July. 2018 – August 2018",
+        "description":"this was my first internship so i learned how the works take places in big company.I also improved my skills in Python."
+      }
+    ],
+    "skills":[
+      {
+        "name":"ReactJS",
+        "level":"80%"
+      },
+      {
+        "name":"NodeJS",
+        "level":"70%"
+      },
+      {
+        "name":"ExpressJS",
+        "level":"70%"
+      },
+      {
+        "name":"HTML/CSS",
+        "level":"90%"
+      },
+      {
+        "name":"Javascript",
+        "level":"80%"
+      },
+      {
+        "name":"Python",
+        "level":"80%"
+      },
+      {
+        "name":"MongoDB",
+        "level":"70%"
+      }
+    ]
+  },
+  "portfolio":{
+    "projects": [
+      {
+        "title":"Traffic Sign Detection and Recognition",
+        "category":"Computer Vision,Deep Learning, Machine Learning, OpenCv",
+        "image":"trafficSigns.jpeg",
+        "url":"https://www.linkedin.com/feed/update/urn:li:activity:6534929859729203200/"
+      },
+      {
+        "title":"Chatbot",
+        "category":"DialogFlow, Nlp ,NodeJs",
+        "image":"chatbot.jpeg",
+        "url":"https://www.linkedin.com/feed/update/urn:li:activity:6556971690125996032/"
+      },
+      {
+        "title":"Python For Data Science",
+        "category":"IBM",
+        "image":"PythonForDataScience.jpg",
+        "url":"https://www.coursera.org/account/accomplishments/verify/6ANHXAFP4SEL"
+      },
+      {
+        "title":"Microsoft Java Certificate",
+        "category":"Microsoft",
+        "image":"java.jpg",
+        "url":"https://www.linkedin.com/feed/update/urn:li:activity:6556971690125996032/"
+      },
+      {
+        "title":"Improving Deep Neural Networks: Hyperparameter tuning, Regularization and Optimization",
+        "category":"Coursera",
+        "image":"improvingDLModel.jpg",
+        "url":"https://www.coursera.org/account/accomplishments/verify/T5HKZUY4PH94"
+      },
+      {
+        "title":"Neural Networks and Deep Learning",
+        "category":"Coursera",
+        "image":"neuralNetwork.jpg",
+        "url":"https://www.coursera.org/account/accomplishments/verify/BEHKQN7FYM39"
+      },
+      {
+        "title":"Data Analysis with Python",
+        "category":"Coursera",
+        "image":"PythonForDataScience.jpg",
+        "url":"https://www.coursera.org/account/accomplishments/verify/UL367NSJNUHT"
+      }
+      
+    ]
+  },
+  "testimonials":{
+    "testimonials":[
+      {
+        "text":"J’ai embauché Nidhal en stage de fin d’étude pendant 6 mois puis en CDI pendant 4 mois. Suite au Covid nous n’avons malheureusement pas pu faire suite à son contrat. Cependant, Nidhal a de nombreuses qualités, il est sérieux et travailleur. Il a rapidement appris à maîtriser nos technologies (React, Node, Mongo), et s’est très bien intégré à l’équipe malgré les contraintes du confinement. Il est autonome et fiable dans son travail, désireux d’apprendre et de progresser et il a un fort potentiel de progression.",
+        "user":"Phan Minh. Co CEO de Goshaba"
+      }
+ 
+    ]
+  }
+}
